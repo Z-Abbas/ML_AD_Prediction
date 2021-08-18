@@ -5,7 +5,8 @@ We developed an approach for predicting one of the most common neurological diso
 
 
 ## Flowchart
-[flow_diagram2.pdf](https://github.com/Z-Abbas/ML_AD_Prediction/files/7005199/flow_diagram2.pdf)
+![flow_diagram](https://user-images.githubusercontent.com/80881943/129854424-7209e13d-558f-41cd-9300-4c40ca473b15.png)
+
 
 
 ## Specifications
