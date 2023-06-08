@@ -3,7 +3,7 @@ Alzheimer's disease prediction based on autoencoder and multi-omics data integra
 
 We developed an approach for predicting one of the most common neurological disorders, Alzheimer's disease, using gene expression (GEO ID: GSE33000 and GSE44770) and DNA methylation (GEO ID: GSE80970) datasets.
 
-**For more details, please refer to the [paper](https://doi.org/10.1016/j.chemolab.2022.104536)
+**For more details, please refer to the [paper](https://doi.org/10.1016/j.chemolab.2022.104536)**
 
 
 ## Flowchart
